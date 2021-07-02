@@ -18,3 +18,7 @@ Après j'ajout du fichier pages/_app.js il faut redémarrer le serveur
 # Pre-rendering and Data Fetching
 installer gray-matter pour parser le metadata du fichier markdown
 `npm install gray-matter`
+
+# Render Markdown
+installer remark 
+`npm install remark remark-html`
