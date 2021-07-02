@@ -11,3 +11,7 @@ puis ouvrir http://localhost:3000
 
 # Pages in Next.js
 Pour accéder à la page first-post ouvrir http://localhost:3000/posts/first-post
+
+# Global Styles
+Après j'ajout du fichier pages/_app.js il faut redémarrer le serveur
+
