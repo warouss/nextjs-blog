@@ -8,3 +8,6 @@ Pour lancer l'application
 `npm run dev`
 
 puis ouvrir http://localhost:3000
+
+# Pages in Next.js
+Pour accéder à la page first-post ouvrir http://localhost:3000/posts/first-post
