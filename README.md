@@ -22,3 +22,7 @@ installer gray-matter pour parser le metadata du fichier markdown
 # Render Markdown
 installer remark 
 `npm install remark remark-html`
+
+# Polishing the Post Page : 
+pour le formattage des dates installer 
+`npm install date-fns`
