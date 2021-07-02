@@ -15,3 +15,6 @@ Pour accéder à la page first-post ouvrir http://localhost:3000/posts/first-pos
 # Global Styles
 Après j'ajout du fichier pages/_app.js il faut redémarrer le serveur
 
+# Pre-rendering and Data Fetching
+installer gray-matter pour parser le metadata du fichier markdown
+`npm install gray-matter`
